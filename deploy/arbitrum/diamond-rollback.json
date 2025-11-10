@@ -1,0 +1,506 @@
+{
+  "timestamp": "2025-09-12T13:44:39.707Z",
+  "diamondAddress": "0x968f944e9c43FC8AD80F6C1629F10570a46e2651",
+  "operations": [
+    {
+      "facetName": "GmxV2FacetArbitrum",
+      "type": "REPLACE",
+      "selectors": [
+        "0x81bb5ad2",
+        "0xcb95294f",
+        "0x8f6c4ee2",
+        "0x82fac504",
+        "0xa189c386",
+        "0xd76f883a",
+        "0xa97526c9",
+        "0x1eafb555",
+        "0x3161805f",
+        "0x029e5901",
+        "0x0d5723dc",
+        "0x643e2cd5",
+        "0x3e0055a3",
+        "0xb713427a",
+        "0x5251cdb1",
+        "0x1206498a",
+        "0x07ef7819",
+        "0x183b563d",
+        "0x0c2fa73e",
+        "0x5d5d5a53",
+        "0xe8218584",
+        "0xecee4863"
+      ],
+      "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3",
+      "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+      "functionNames": [
+        "depositSuiUsdcGmxV2",
+        "depositSeiUsdcGmxV2",
+        "depositEthUsdcGmxV2",
+        "depositArbUsdcGmxV2",
+        "depositLinkUsdcGmxV2",
+        "depositUniUsdcGmxV2",
+        "depositBtcUsdcGmxV2",
+        "depositSolUsdcGmxV2",
+        "depositNearUsdcGmxV2",
+        "depositAtomUsdcGmxV2",
+        "depositGmxUsdcGmxV2",
+        "withdrawSuiUsdcGmxV2",
+        "withdrawSeiUsdcGmxV2",
+        "withdrawEthUsdcGmxV2",
+        "withdrawArbUsdcGmxV2",
+        "withdrawLinkUsdcGmxV2",
+        "withdrawUniUsdcGmxV2",
+        "withdrawBtcUsdcGmxV2",
+        "withdrawSolUsdcGmxV2",
+        "withdrawNearUsdcGmxV2",
+        "withdrawAtomUsdcGmxV2",
+        "withdrawGmxUsdcGmxV2"
+      ],
+      "replacementDetails": [
+        {
+          "selector": "0x81bb5ad2",
+          "functionName": "depositSuiUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0xcb95294f",
+          "functionName": "depositSeiUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x8f6c4ee2",
+          "functionName": "depositEthUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x82fac504",
+          "functionName": "depositArbUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0xa189c386",
+          "functionName": "depositLinkUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0xd76f883a",
+          "functionName": "depositUniUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0xa97526c9",
+          "functionName": "depositBtcUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x1eafb555",
+          "functionName": "depositSolUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x3161805f",
+          "functionName": "depositNearUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x029e5901",
+          "functionName": "depositAtomUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x0d5723dc",
+          "functionName": "depositGmxUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x643e2cd5",
+          "functionName": "withdrawSuiUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x3e0055a3",
+          "functionName": "withdrawSeiUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0xb713427a",
+          "functionName": "withdrawEthUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x5251cdb1",
+          "functionName": "withdrawArbUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x1206498a",
+          "functionName": "withdrawLinkUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x07ef7819",
+          "functionName": "withdrawUniUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x183b563d",
+          "functionName": "withdrawBtcUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x0c2fa73e",
+          "functionName": "withdrawSolUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0x5d5d5a53",
+          "functionName": "withdrawNearUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0xe8218584",
+          "functionName": "withdrawAtomUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        },
+        {
+          "selector": "0xecee4863",
+          "functionName": "withdrawGmxUsdcGmxV2",
+          "previousAddress": "0xd846fC8c535DbC15F97eC7b6A0f73244455353a8",
+          "newAddress": "0xB4073fD4dD221c18b0C147e4263345b591D12AD3"
+        }
+      ]
+    },
+    {
+      "facetName": "GmxV2CallbacksFacetArbitrum",
+      "type": "REPLACE",
+      "selectors": [
+        "0x29e5be21",
+        "0x51f21238",
+        "0x81b6d912",
+        "0x1046848b",
+        "0x3c372240"
+      ],
+      "newAddress": "0xC536624eFB7e330D0A98ded6fFfCfba25c2dF1AB",
+      "previousAddress": "0x3BA10A33Bc80D43dFFc76bb83599c4F2046A6EdC",
+      "functionNames": [
+        "afterDepositExecution",
+        "afterDepositCancellation",
+        "afterWithdrawalExecution",
+        "afterWithdrawalCancellation",
+        "refundExecutionFee"
+      ],
+      "replacementDetails": [
+        {
+          "selector": "0x29e5be21",
+          "functionName": "afterDepositExecution",
+          "previousAddress": "0x3BA10A33Bc80D43dFFc76bb83599c4F2046A6EdC",
+          "newAddress": "0xC536624eFB7e330D0A98ded6fFfCfba25c2dF1AB"
+        },
+        {
+          "selector": "0x51f21238",
+          "functionName": "afterDepositCancellation",
+          "previousAddress": "0x3BA10A33Bc80D43dFFc76bb83599c4F2046A6EdC",
+          "newAddress": "0xC536624eFB7e330D0A98ded6fFfCfba25c2dF1AB"
+        },
+        {
+          "selector": "0x81b6d912",
+          "functionName": "afterWithdrawalExecution",
+          "previousAddress": "0x3BA10A33Bc80D43dFFc76bb83599c4F2046A6EdC",
+          "newAddress": "0xC536624eFB7e330D0A98ded6fFfCfba25c2dF1AB"
+        },
+        {
+          "selector": "0x1046848b",
+          "functionName": "afterWithdrawalCancellation",
+          "previousAddress": "0x3BA10A33Bc80D43dFFc76bb83599c4F2046A6EdC",
+          "newAddress": "0xC536624eFB7e330D0A98ded6fFfCfba25c2dF1AB"
+        },
+        {
+          "selector": "0x3c372240",
+          "functionName": "refundExecutionFee",
+          "previousAddress": "0x3BA10A33Bc80D43dFFc76bb83599c4F2046A6EdC",
+          "newAddress": "0xC536624eFB7e330D0A98ded6fFfCfba25c2dF1AB"
+        }
+      ]
+    },
+    {
+      "facetName": "AssetsOperationsArbitrumFacet",
+      "type": "REPLACE",
+      "selectors": [
+        "0xc37c956b",
+        "0x8c1e5ad8",
+        "0xe46bbc9e",
+        "0x30f4ee27",
+        "0xd66e2979",
+        "0x7c93ec30",
+        "0x00f989ad",
+        "0x7c5fc3fb"
+      ],
+      "newAddress": "0xa2670dE8965c926D69D3577A128da257417268e6",
+      "previousAddress": "0x4599E49BdF787EbF2FfaED19A6D3dc9b01B5B94B",
+      "functionNames": [
+        "removeUnsupportedOwnedAsset",
+        "removeUnsupportedStakedPosition",
+        "fund",
+        "addOwnedAsset",
+        "fundGLP",
+        "borrow",
+        "repay",
+        "unfreezeAccount"
+      ],
+      "replacementDetails": [
+        {
+          "selector": "0xc37c956b",
+          "functionName": "removeUnsupportedOwnedAsset",
+          "previousAddress": "0x4599E49BdF787EbF2FfaED19A6D3dc9b01B5B94B",
+          "newAddress": "0xa2670dE8965c926D69D3577A128da257417268e6"
+        },
+        {
+          "selector": "0x8c1e5ad8",
+          "functionName": "removeUnsupportedStakedPosition",
+          "previousAddress": "0x4599E49BdF787EbF2FfaED19A6D3dc9b01B5B94B",
+          "newAddress": "0xa2670dE8965c926D69D3577A128da257417268e6"
+        },
+        {
+          "selector": "0xe46bbc9e",
+          "functionName": "fund",
+          "previousAddress": "0x4599E49BdF787EbF2FfaED19A6D3dc9b01B5B94B",
+          "newAddress": "0xa2670dE8965c926D69D3577A128da257417268e6"
+        },
+        {
+          "selector": "0x30f4ee27",
+          "functionName": "addOwnedAsset",
+          "previousAddress": "0x4599E49BdF787EbF2FfaED19A6D3dc9b01B5B94B",
+          "newAddress": "0xa2670dE8965c926D69D3577A128da257417268e6"
+        },
+        {
+          "selector": "0xd66e2979",
+          "functionName": "fundGLP",
+          "previousAddress": "0x4599E49BdF787EbF2FfaED19A6D3dc9b01B5B94B",
+          "newAddress": "0xa2670dE8965c926D69D3577A128da257417268e6"
+        },
+        {
+          "selector": "0x7c93ec30",
+          "functionName": "borrow",
+          "previousAddress": "0x4599E49BdF787EbF2FfaED19A6D3dc9b01B5B94B",
+          "newAddress": "0xa2670dE8965c926D69D3577A128da257417268e6"
+        },
+        {
+          "selector": "0x00f989ad",
+          "functionName": "repay",
+          "previousAddress": "0x4599E49BdF787EbF2FfaED19A6D3dc9b01B5B94B",
+          "newAddress": "0xa2670dE8965c926D69D3577A128da257417268e6"
+        },
+        {
+          "selector": "0x7c5fc3fb",
+          "functionName": "unfreezeAccount",
+          "previousAddress": "0x4599E49BdF787EbF2FfaED19A6D3dc9b01B5B94B",
+          "newAddress": "0xa2670dE8965c926D69D3577A128da257417268e6"
+        }
+      ]
+    },
+    {
+      "facetName": "SmartLoanViewFacet",
+      "type": "REPLACE",
+      "selectors": [
+        "0xc4d66de8",
+        "0xb6438139",
+        "0x21f88097",
+        "0x624763d2",
+        "0x6b6c92d9",
+        "0x1fc8b6ee",
+        "0xc836ef2e",
+        "0xa935310f",
+        "0x442890d5",
+        "0xeae5a62d",
+        "0x2df4c106",
+        "0x48066332"
+      ],
+      "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1",
+      "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+      "functionNames": [
+        "initialize",
+        "getAllOwnedAssets",
+        "getSupportedTokensAddresses",
+        "getAllAssetsBalancesDebtCoverages",
+        "getAllAssetsBalances",
+        "getGmTokenBalanceAfterFees",
+        "getDebts",
+        "getAllAssetsPrices",
+        "getContractOwner",
+        "getProposedOwner",
+        "getStakedPositions",
+        "getGmxPositionBenchmark"
+      ],
+      "replacementDetails": [
+        {
+          "selector": "0xc4d66de8",
+          "functionName": "initialize",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0xb6438139",
+          "functionName": "getAllOwnedAssets",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0x21f88097",
+          "functionName": "getSupportedTokensAddresses",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0x624763d2",
+          "functionName": "getAllAssetsBalancesDebtCoverages",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0x6b6c92d9",
+          "functionName": "getAllAssetsBalances",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0x1fc8b6ee",
+          "functionName": "getGmTokenBalanceAfterFees",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0xc836ef2e",
+          "functionName": "getDebts",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0xa935310f",
+          "functionName": "getAllAssetsPrices",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0x442890d5",
+          "functionName": "getContractOwner",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0xeae5a62d",
+          "functionName": "getProposedOwner",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0x2df4c106",
+          "functionName": "getStakedPositions",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        },
+        {
+          "selector": "0x48066332",
+          "functionName": "getGmxPositionBenchmark",
+          "previousAddress": "0x376314Db62e5843801112905F037d11A5Dc2b3Ad",
+          "newAddress": "0xDAd16B7Ce68573505aA05F94B15D1257b763d1e1"
+        }
+      ]
+    },
+    {
+      "facetName": "WithdrawalIntentFacet",
+      "type": "REPLACE",
+      "selectors": [
+        "0x0bf77f9f",
+        "0x0fe12b65",
+        "0xa0a344ef",
+        "0x9b1658d2",
+        "0x32cbfcca",
+        "0x9fc2e42d",
+        "0x23a3afa2",
+        "0xf9ea76b2"
+      ],
+      "newAddress": "0x044cb8A351e3ef58d11861FBC1FCDff3e5E50998",
+      "previousAddress": "0xC4f72692788743d1AE6781A9C5a1355d1f35B05e",
+      "functionNames": [
+        "createWithdrawalIntent",
+        "executeWithdrawalIntent",
+        "cancelWithdrawalIntent",
+        "clearExpiredIntents",
+        "getUserIntents",
+        "getTotalIntentAmount",
+        "getAvailableBalance",
+        "getAvailableBalancePayable"
+      ],
+      "replacementDetails": [
+        {
+          "selector": "0x0bf77f9f",
+          "functionName": "createWithdrawalIntent",
+          "previousAddress": "0xC4f72692788743d1AE6781A9C5a1355d1f35B05e",
+          "newAddress": "0x044cb8A351e3ef58d11861FBC1FCDff3e5E50998"
+        },
+        {
+          "selector": "0x0fe12b65",
+          "functionName": "executeWithdrawalIntent",
+          "previousAddress": "0xC4f72692788743d1AE6781A9C5a1355d1f35B05e",
+          "newAddress": "0x044cb8A351e3ef58d11861FBC1FCDff3e5E50998"
+        },
+        {
+          "selector": "0xa0a344ef",
+          "functionName": "cancelWithdrawalIntent",
+          "previousAddress": "0xC4f72692788743d1AE6781A9C5a1355d1f35B05e",
+          "newAddress": "0x044cb8A351e3ef58d11861FBC1FCDff3e5E50998"
+        },
+        {
+          "selector": "0x9b1658d2",
+          "functionName": "clearExpiredIntents",
+          "previousAddress": "0xC4f72692788743d1AE6781A9C5a1355d1f35B05e",
+          "newAddress": "0x044cb8A351e3ef58d11861FBC1FCDff3e5E50998"
+        },
+        {
+          "selector": "0x32cbfcca",
+          "functionName": "getUserIntents",
+          "previousAddress": "0xC4f72692788743d1AE6781A9C5a1355d1f35B05e",
+          "newAddress": "0x044cb8A351e3ef58d11861FBC1FCDff3e5E50998"
+        },
+        {
+          "selector": "0x9fc2e42d",
+          "functionName": "getTotalIntentAmount",
+          "previousAddress": "0xC4f72692788743d1AE6781A9C5a1355d1f35B05e",
+          "newAddress": "0x044cb8A351e3ef58d11861FBC1FCDff3e5E50998"
+        },
+        {
+          "selector": "0x23a3afa2",
+          "functionName": "getAvailableBalance",
+          "previousAddress": "0xC4f72692788743d1AE6781A9C5a1355d1f35B05e",
+          "newAddress": "0x044cb8A351e3ef58d11861FBC1FCDff3e5E50998"
+        },
+        {
+          "selector": "0xf9ea76b2",
+          "functionName": "getAvailableBalancePayable",
+          "previousAddress": "0xC4f72692788743d1AE6781A9C5a1355d1f35B05e",
+          "newAddress": "0x044cb8A351e3ef58d11861FBC1FCDff3e5E50998"
+        }
+      ]
+    }
+  ]
+}
